@@ -14,6 +14,8 @@
 </ul>
 <p>La gráfica contempla un delito, en cada columna se coloca cada una de las métricas mencionadas anteriormente y cada fila representa un año del 2016 al 2024. Para el cálculo de la tendencia del año 2024, se compara el total de delitos de enero-abril del 2024 con el total de delito de enero-abril del 2023. Al lado derecho se coloca la tendencia nacional del delito.</p>
 
+<p>En la carpeta de mapa de delitos se pueden consultar los mapas para diferentes delitos de México, adicionalmente el Jupyter Notebook proporcionado se puede ejecutar con Google Colab para seguir analizando los datos</p>
+
 ![Homicidio doloso](https://github.com/DiegoVillatoro/analisis-incidencia-delictiva-por-entidades/assets/45828192/dbde410c-cb04-477d-bd55-aad531668e35)
 
 <p>La coloración usada para representar los aumentos y decrementos de cada delitos fue:</p>
