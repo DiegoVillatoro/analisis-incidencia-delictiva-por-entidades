@@ -13,17 +13,19 @@ $\text{delitos relativos año pasado} = \frac{\text{Delitos año pasado}}{\text{
 $\text{Tendencia de crímen} = \frac{\text{Delitos relativos año presente}-\text{delitos relativos año pasado}}{\text{delitos relativos año pasado}}$
 
 <p>La gráfica contempla un delito, en cada columna se coloca cada una de las métricas mencionadas anteriormente y cada fila representa un año del 2016 al 2024. Para el cálculo de la tendencia del año 2024, se compara el total de delitos de enero-abril del 2024 con el total de delito de enero-abril del 2023. Al lado derecho se coloca la tendencia nacional del delito.</p>
+
 ![Homicidio doloso](https://github.com/DiegoVillatoro/analisis-incidencia-delictiva-por-entidades/assets/45828192/dbde410c-cb04-477d-bd55-aad531668e35)
 
 <p>La coloración usada para representar los aumentos y decrementos de cada delitos fue:</p>
 
-*Verde oscuro ('#548235') si el delito se redujo más del 40%
-*Verde claro ('#B0DD7F') si el delito se redujo hasta un 40%
-*Amarillo ('#E6AF00') si el delito se mantuvo igual (0%) o tuvo un aumento de menos del 10%
-*Rojo claro ('#FFB3B3') si el delito aumentó entre el 10% y 60%
-*Rojo oscuro ('#D00000') si el delito aumentó entre el 60% y 500%
-*Rojo muy oscuro ('#8C0000') si el delito aumentó más del 500%
-
+<ul>
+<li>Verde oscuro ('#548235') si el delito se redujo más del 40%</li>
+<li>Verde claro ('#B0DD7F') si el delito se redujo hasta un 40%</li>
+<li>Amarillo ('#E6AF00') si el delito se mantuvo igual (0%) o tuvo un aumento de menos del 10%</li>
+<li>Rojo claro ('#FFB3B3') si el delito aumentó entre el 10% y 60%</li>
+<li>Rojo oscuro ('#D00000') si el delito aumentó entre el 60% y 500%</li>
+<li>Rojo muy oscuro ('#8C0000') si el delito aumentó más del 500%</li>
+</ul>
 ![calderon](https://github.com/DiegoVillatoro/analisis-incidencia-delictiva-por-entidades/assets/45828192/f9cce135-aa14-4c46-a112-dc34813a2687)
 ![epn](https://github.com/DiegoVillatoro/analisis-incidencia-delictiva-por-entidades/assets/45828192/a25868ad-cc92-4828-9f25-c5053580f8c9)
 ![amlo](https://github.com/DiegoVillatoro/analisis-incidencia-delictiva-por-entidades/assets/45828192/8843289f-874f-4438-846f-3900a43654be)
