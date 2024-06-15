@@ -10,7 +10,7 @@
 <li>$\text{delitos relativos} = \frac{\text{Delitos absolutos}}{\text{Población/100 000}}$</li>
 <li>$\text{delitos relativos año presente} = \frac{\text{Delitos año presente}}{\text{Población año presente}}$</li>
 <li>$\text{delitos relativos año pasado} = \frac{\text{Delitos año pasado}}{\text{Población año pasado}}$</li>
-<li>$\text{Tendencia de crímen} = \frac{\text{Delitos relativos año presente}-\text{delitos relativos año pasado}}{\text{delitos relativos año pasado}}$</li>
+<li>$\text{tendencia de crímen} = \frac{\text{Delitos relativos año presente}-\text{delitos relativos año pasado}}{\text{delitos relativos año pasado}}$</li>
 </ul>
 <p>La gráfica contempla un delito, en cada columna se coloca cada una de las métricas mencionadas anteriormente y cada fila representa un año del 2016 al 2024. Para el cálculo de la tendencia del año 2024, se compara el total de delitos de enero-abril del 2024 con el total de delito de enero-abril del 2023. Al lado derecho se coloca la tendencia nacional del delito.</p>
 
