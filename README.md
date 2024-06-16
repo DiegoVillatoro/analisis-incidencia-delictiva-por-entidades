@@ -32,3 +32,8 @@
 ![calderon](https://github.com/DiegoVillatoro/analisis-incidencia-delictiva-por-entidades/assets/45828192/f9cce135-aa14-4c46-a112-dc34813a2687)
 ![epn](https://github.com/DiegoVillatoro/analisis-incidencia-delictiva-por-entidades/assets/45828192/a25868ad-cc92-4828-9f25-c5053580f8c9)
 ![amlo](https://github.com/DiegoVillatoro/analisis-incidencia-delictiva-por-entidades/assets/45828192/8843289f-874f-4438-846f-3900a43654be)
+
+En la carpeta de Estados se podrán encontrar lás gráficas por estado de 24 delitos representativos de la situación de cada estado desde el 2016 hasta el 2023 para los valores de los delitos relativos
+
+![RepublicaMexicana](https://github.com/DiegoVillatoro/analisis-incidencia-delictiva-por-entidades/assets/45828192/71b3bf01-bee0-4344-a088-25e90ac8d2f8)
+
